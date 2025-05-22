@@ -3,8 +3,7 @@
 A simple responsive dashboard built with Next.js and Shadcn/UI.
 
 ## 🔗 Live Demo
-https://dashboard-ui.vercel.app
-
+https://dashboard-im5az9bth-mahnoor-shabbirs-projects.vercel.app/
 ## 🚀 Features
 - Sidebar navigation
 - Article table with dummy data
